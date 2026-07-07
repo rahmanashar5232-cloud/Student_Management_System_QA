@@ -5,6 +5,7 @@
 ![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)
 # 🎓 Student Management System - QA Automation Framework
 
+
 ## 📌 Project Overview
 
 This repository contains an End-to-End QA Automation Framework developed for the Django Student Management System application.
