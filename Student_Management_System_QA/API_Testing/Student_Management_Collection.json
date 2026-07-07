@@ -1,0 +1,32 @@
+{
+	"info": {
+		"name": "Student Management System API Validation",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "User Registration",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": { "raw": "{{baseUrl}}/api/register" }
+			}
+		},
+		{
+			"name": "User Login",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": { "raw": "{{baseUrl}}/api/login" }
+			}
+		},
+		{
+			"name": "Get Student Details",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": { "raw": "{{baseUrl}}/api/students/1" }
+			}
+		}
+	]
+}
