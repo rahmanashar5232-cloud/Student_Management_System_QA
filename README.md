@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
+![Selenium](https://img.shields.io/badge/selenium-4.0+-green.svg)
+![Pytest](https://img.shields.io/badge/tested%20with-pytest-yellow.svg)
+![Postman](https://img.shields.io/badge/API%20Testing-Postman-orange.svg)
+![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)
 # 🎓 Student Management System - QA Automation Framework
 
 ## 📌 Project Overview
